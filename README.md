@@ -32,9 +32,7 @@
 
 > Animation générée automatiquement à partir de mes contributions GitHub !
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vaidx0/Vaidx0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![snake gif](https://github.com/Vaidx0/Vaidx0/blob/output/github-snake-dark.svg)
 
 ---
 
