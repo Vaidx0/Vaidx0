@@ -28,11 +28,13 @@
 
 ---
 
-## 🐍 Animation Snake
+## 🧊 Carte 3D de mes contributions GitHub
 
-> Animation générée automatiquement à partir de mes contributions GitHub !
+> Une visualisation 3D stylée et animée de mon activité GitHub !
 
-![snake gif](https://github.com/Vaidx0/Vaidx0/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Vaidx0/Vaidx0/blob/output/github-contribution-grid-snake.svg" alt="3D Contributions Chart" />
+</p>
 
 ---
 
