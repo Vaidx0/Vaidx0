@@ -1,8 +1,8 @@
-# 👋 Salut, moi c'est Vaidx0
+# 👋 Salut, moi c'est **Vaidx0**
 
 🔧 Passionné par la programmation, le hacking éthique, l'électronique (Flipper Zero) et les calculatrices NumWorks.  
-💻 Je crée des outils en Python, JavaScript, et je développe aussi des sites stylés et interactifs.  
-📱 Créateur de **Vaidx Website** : [vaidx0.github.io/Vaidx-Website](https://vaidx0.github.io/Vaidx-Website/index.html)
+💻 Je crée des outils en **Python**, **JavaScript** et je développe aussi des sites web stylés, modernes et interactifs.  
+📱 Créateur du site **Vaidx Website** → [vaidx0.github.io/Vaidx-Website](https://vaidx0.github.io/Vaidx-Website/index.html)
 
 ---
 
@@ -30,20 +30,22 @@
 
 ## 🐍 Animation Snake
 
-> (Active-la via GitHub Actions, je peux t'aider si besoin)
+> Animation générée automatiquement à partir de mes contributions GitHub !
 
-![snake gif](https://github.com/Vaidx0/Vaidx0/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaidx0/Vaidx0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 🌐 Liens utiles
 
-- 🔗 [Site Vaidx Website](https://vaidx0.github.io/Vaidx-Website/index.html)
-- 💬 Projets : Outils NumWorks, cybersécurité, web stylé, réseaux locaux
+- 🔗 [Vaidx Website](https://vaidx0.github.io/Vaidx-Website/index.html)
+- 💬 Domaines : outils NumWorks, cybersécurité, Flipper Zero, interfaces web, réseaux locaux
 
 ---
 
-<!-- Signature personnalisée -->
+<!-- Signature animée -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Bienvenue+sur+mon+GitHub+!;Scripts%2C+Hacking%2C+Flipper+Zero%2C+NumWorks" alt="Typing SVG" />
 </p>
