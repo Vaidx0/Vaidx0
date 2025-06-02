@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Vaidx0
 
-<!--
-**Vaidx0/Vaidx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Passionné par la programmation, le hacking éthique, l'électronique (Flipper Zero) et les calculatrices NumWorks.  
+💻 Je crée des outils en Python, JavaScript, et je développe aussi des sites stylés et interactifs.  
+📱 Créateur de **Vaidx Website** : [vaidx0.github.io/Vaidx-Website](https://vaidx0.github.io/Vaidx-Website/index.html)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences & Technos
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-orange?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🔥 Mes Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaidx0&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidx0&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Animation Snake
+
+> (Active-la via GitHub Actions, je peux t'aider si besoin)
+
+![snake gif](https://github.com/Vaidx0/Vaidx0/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Liens utiles
+
+- 🔗 [Site Vaidx Website](https://vaidx0.github.io/Vaidx-Website/index.html)
+- 💬 Projets : Outils NumWorks, cybersécurité, web stylé, réseaux locaux
+
+---
+
+<!-- Signature personnalisée -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Bienvenue+sur+mon+GitHub+!;Scripts%2C+Hacking%2C+Flipper+Zero%2C+NumWorks" alt="Typing SVG" />
+</p>
