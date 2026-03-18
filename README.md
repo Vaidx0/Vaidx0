@@ -5,7 +5,9 @@ Hardware Hacker • Embedded Developer • Reverse Engineer
 </p>
 
 <p align="center">
-🌐 <a href="https://amauzero.info">Visit my website</a>
+🌐 <a href="https://amauzero.info">Website</a> • 
+🎥 <a href="https://www.tiktok.com/@amau_zero">TikTok</a> • 
+💻 <a href="https://github.com/Amau_Zero">GitHub</a>
 </p>
 
 ---
@@ -18,14 +20,15 @@ I enjoy experimenting with electronics, building tools and developing custom sof
 
 Most of my work involves:
 
-🔓 Hardware experimentation  
-📡 Wireless tools  
-🐧 Linux systems  
-⚙️ Embedded development  
-🔍 Reverse engineering  
+🔓 Hardware experimentation
+📡 Wireless tools
+🐧 Linux systems
+⚙️ Embedded development
+🔍 Reverse engineering
 
-More information about my projects on my website:  
-👉 <a href="https://amauzero.info">https://amauzero.info</a>
+More information about my projects:
+
+👉 https://amauzero.info
 
 ---
 
@@ -63,9 +66,9 @@ More information about my projects on my website:
 
 Hardware I often work with:
 
-- 📟 Flipper Zero  
-- 📡 ESP32  
-- 🔌 Microcontrollers  
+📟 Flipper Zero
+📡 ESP32
+🔌 Microcontrollers
 
 ---
 
@@ -75,8 +78,8 @@ Hardware I often work with:
 
 I contribute to custom firmware such as:
 
-**Flipper ARF**  
-🔗 https://github.com/D4C1-Labs/Flipper-ARF
+**Flipper ARF**
+https://github.com/D4C1-Labs/Flipper-ARF
 
 ---
 
@@ -84,25 +87,28 @@ I contribute to custom firmware such as:
 
 I also work on **ProtoPirate**, a hardware experimentation and hacking platform.
 
-🔗 https://protopirate.net/ProtoPirate/ProtoPirate
+https://protopirate.net/ProtoPirate/ProtoPirate
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Amau_Zero&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amau_Zero\&show_icons=true\&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amau_Zero&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amau_Zero\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🌍 Links
 
-🌐 Website  
-<a href="https://amauzero.info">https://amauzero.info</a>
+🌐 Website
+https://amauzero.info
 
-💻 GitHub  
-<a href="https://github.com/Amau_Zero">https://github.com/Amau_Zero</a>
+🎥 TikTok
+https://www.tiktok.com/@amau_zero
+
+💻 GitHub
+https://github.com/Amau_Zero
 
 ---
 
