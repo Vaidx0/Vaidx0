@@ -23,4 +23,4 @@ Je travaille principalement sur le **Flipper Zero** et les systèmes embarqués.
 
 ## 📟 Flipper Zero
 
-![Flipper Zero](https://cdn.shopify.com/s/files/1/0565/0627/5976/products/flipper-zero-black-1_720x.jpg?v=1679970914)
+![Flipper Zero](https://images.radio-canada.ca/q_auto,w_700/v1/ici-info/16x9/flipper-zero-pirate-kickstarter.jpg)
