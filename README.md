@@ -1,105 +1,80 @@
-<h1 align="center">👋 Hey, I'm Amau_Zero</h1>
+# 👋 Amau_Zero
 
-<p align="center">
-Hardware Hacker • Embedded Developer • Reverse Engineer
-</p>
+**Hardware Hacker • Embedded Developer • Reverse Engineering**
 
-<p align="center">
-🌐 <a href="https://amauzero.info">Website</a> • 
-🎥 <a href="https://www.tiktok.com/@amau_zero">TikTok</a> • 
-💻 <a href="https://github.com/Amau_Zero">GitHub</a>
-</p>
+🌐 **Website:** https://amauzero.info
+🎥 **TikTok:** https://www.tiktok.com/@amau_zero
+💻 **GitHub:** https://github.com/Amau_Zero
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I'm passionate about **hardware, embedded systems and reverse engineering**.
+I'm passionate about **hardware experimentation, embedded development and reverse engineering**.
 
-I enjoy experimenting with electronics, building tools and developing custom software for devices.
+I build tools, experiment with electronics and work on low-level systems.
 
-Most of my work involves:
+Main interests:
 
-🔓 Hardware experimentation
-📡 Wireless tools
-🐧 Linux systems
-⚙️ Embedded development
-🔍 Reverse engineering
+* Hardware experimentation
+* Wireless tools
+* Embedded systems
+* Linux environments
+* Reverse engineering
 
-More information about my projects:
-
-👉 https://amauzero.info
-
----
-
-## 💻 Programming Languages
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
-
-</p>
+More about my work:
+https://amauzero.info
 
 ---
 
-## ⚙️ Technologies & Hardware
+# 💻 Programming Languages
 
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-
-</p>
-
-Hardware I often work with:
-
-📟 Flipper Zero
-📡 ESP32
-🔌 Microcontrollers
+C
+C++
+Python
+JavaScript
+Bash
 
 ---
 
-## 🚀 Projects & Contributions
+# ⚙️ Technologies
 
-### 🔐 Firmware Contributions
+Linux
+Git
+Docker
+VS Code
+Networking
+Embedded systems
 
-I contribute to custom firmware such as:
+---
 
-**Flipper ARF**
+# 📟 Hardware
+
+* Flipper Zero
+* ESP32
+* Microcontrollers
+
+---
+
+# 🚀 Projects & Contributions
+
+## 🔐 Firmware
+
+Contributor to **Flipper ARF firmware**
+
 https://github.com/D4C1-Labs/Flipper-ARF
 
 ---
 
-### 🏴‍☠️ ProtoPirate
+## 🏴‍☠️ ProtoPirate
 
-I also work on **ProtoPirate**, a hardware experimentation and hacking platform.
+Working on **ProtoPirate**, a hardware experimentation platform.
 
 https://protopirate.net/ProtoPirate/ProtoPirate
 
 ---
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amau_Zero\&show_icons=true\&theme=tokyonight)
-
-![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amau_Zero\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌍 Links
+# 🌍 Links
 
 🌐 Website
 https://amauzero.info
@@ -112,6 +87,4 @@ https://github.com/Amau_Zero
 
 ---
 
-<p align="center">
-⚡ Building tools, exploring hardware and breaking things to understand them.
-</p>
+⚡ *Building tools, exploring hardware and breaking things to understand them.*
