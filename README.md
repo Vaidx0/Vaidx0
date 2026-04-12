@@ -1,29 +1,17 @@
-<div align="center">
-
-<img src="https://www.amauzero.info/assets/profile-D_gNJ8Tb.png" width="160" style="border-radius: 50%"/>
-
-# Amau_Zero
-
-**Developer** · Embedded & Reverse Engineering
-
-[![Website](https://img.shields.io/badge/amauzero.info-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amauzero.info)
-
-</div>
-
----
-
-## 🖥️ Terminal
-
-```bash
-$ whoami
-  Amau_Zero
-
-$ status
-  Developing...
-
-$ focus
-  Embedded / Reverse Engineering
-```
+<table>
+  <tr>
+    <td>
+      <img src="https://www.amauzero.info/assets/profile-D_gNJ8Tb.png" width="180"/>
+    </td>
+    <td>
+      <h1>Amau_Zero</h1>
+      <p><strong>Developer</strong> · Embedded &amp; Reverse Engineering</p>
+      <a href="https://amauzero.info">
+        <img src="https://img.shields.io/badge/amauzero.info-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,8 +29,8 @@ $ focus
 
 <div align="center">
 
-![Amau_Zero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amau_Zero&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amau_Zero&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amau-Zero&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amau-Zero&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
