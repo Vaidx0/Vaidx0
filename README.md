@@ -23,8 +23,4 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vaidx0&theme=default&hide_border=true&background=f0f2f5&ring=555555&fire=555555&currStreakNum=222222&sideNums=222222&currStreakLabel=555555&sideLabels=555555&dates=888888)](https://github.com/Vaidx0)
-
-</div>
+<img src="https://streak-stats.demolab.com?user=Vaidx0&hide_border=true&background=D6D8DB&ring=444444&fire=444444&currStreakNum=111111&sideNums=111111&currStreakLabel=444444&sideLabels=444444&dates=666666&stroke=D6D8DB" width="100%"/>
