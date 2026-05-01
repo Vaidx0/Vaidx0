@@ -1,17 +1,10 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://www.amauzero.info/assets/carplay-esp32-1-C21p1gQ0.png" width="160" style="border-radius:10px"/>
-    </td>
-    <td>
-      <h3>Amau_Zero</h3>
-      <p><strong>Developer</strong> · Embedded &amp; Reverse Engineering</p>
-      <a href="https://amauzero.info">
-        <img src="https://img.shields.io/badge/amauzero.info-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Amau_Zero</h3>
+  <p><strong>Developer</strong> · Embedded &amp; Reverse Engineering</p>
+  <a href="https://amauzero.info">
+    <img src="https://img.shields.io/badge/amauzero.info-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
 
 <br/>
 
